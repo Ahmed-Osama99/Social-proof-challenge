@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL](https://your-solution-url.com)
-- Live Site URL: [Live site URL](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/mobile-first-social-proof-responsive-layout-1pqjryO7QD)
+- Live Site URL: [Live site URL](https://ahmed-osama99.github.io/Social-proof-challenge/)
 
 ## My process
 
